@@ -1,3 +1,3 @@
 # CVPR.
 Mid
-Final tearm
+Final
